@@ -17,7 +17,7 @@ from telebot import TeleBot
 from telebot.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 # ============ AYARLAR ============
-TELEGRAM_BOT_TOKEN = "6632758014:AAFM6Xlt6sF6C3FBvy5JCsycIbB7n6vhvQ8" 
+TELEGRAM_BOT_TOKEN = "YOUR_BOT_TOKEN_HERE" 
 bot = TeleBot(TELEGRAM_BOT_TOKEN)
 
 # ============ LOGGING AYARLARI ============
